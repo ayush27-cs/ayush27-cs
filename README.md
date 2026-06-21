@@ -20,37 +20,21 @@ I'm currently pursuing my B.Tech degree at SAIT College. I am passionate about t
 
 ## 🛠️ Skills & Technologies
 
-### Programming Languages
+### Programming Languages ..knowing the basic 
 - Python
 - C
 - C++
-- HTML
-- CSS
-- JavaScript (Learning)
 
 ### Tools & Technologies
 - Git & GitHub
 - VS Code
 - Linux Basics
 - Problem Solving
-- Data Structures & Algorithms
 
 ---
 
 ## 📈 Current Learning Journey
-
-```python
-class Ayush:
-    def __init__(self):
-        self.education = "B.Tech Student"
-        self.learning = ["Python", "Data Structures", "Web Development", "AI"]
-        self.goal = "Build innovative projects and become a skilled developer"
-
-    def future(self):
-        return "Creating amazing things with code 🚀"
-
-me = Ayush()
-print(me.future())
+learning c and c++ and making code to gain confidence...
 ```
 
 ---
@@ -71,12 +55,6 @@ print(me.future())
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🌟 Motto
-
-> "Every expert was once a beginner. Keep learning, keep building, keep growing."
 
 ---
 
