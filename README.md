@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ayush Singh Thakur
+# Hi 👋, I'm Ayush Singh Thakur 
 
 ### 🎓 B.Tech Student | Python Enthusiast | Future Innovator
 
