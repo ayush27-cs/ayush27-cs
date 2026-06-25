@@ -11,7 +11,7 @@ I'm currently pursuing my B.Tech degree at SAIT College. I am passionate about t
 - 🎓 Pursuing B.Tech at SAIT College
 - 🐍 Currently learning and improving my Python skills
 - 🔭 Working on personal projects to strengthen my development skills
-- 🌱 Exploring Software Development, Automation, and AI
+- Learning C and C++
 - 💡 Interested in building useful applications and solving real-world problems
 - 📚 Always eager to learn new technologies
 - ⚡ Goal: To create innovative products and contribute to open-source projects
@@ -28,13 +28,13 @@ I'm currently pursuing my B.Tech degree at SAIT College. I am passionate about t
 ### Tools & Technologies
 - Git & GitHub
 - VS Code
-- Linux Basics
 - Problem Solving
 
 ---
 
 ## 📈 Current Learning Journey
 learning c and c++ and making code to gain confidence...
+Wanted to create and build a simple project for example a simple website with help of Python...
 ```
 
 ---
