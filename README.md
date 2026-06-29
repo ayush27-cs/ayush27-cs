@@ -1,6 +1,6 @@
 # Hello everyone👋, I am Ayush Singh Thakur 
 
-###🎓 B.Tech Student | Python Enthusiast | Future Innovator
+##🎓 B.Tech Student | Python Enthusiast | Future Innovator
 
 I'm currently pursuing my B.Tech degree at SAIT College. I am passionate about technology, problem-solving, and building projects that make an impact. My primary focus is learning Python and exploring new technologies to create innovative solutions.
 
