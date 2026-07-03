@@ -42,19 +42,7 @@ Wanted to create and build a simple project for example a simple website with he
 ## 🎯 2026 Goals
 
 - Master Python Programming
-- Build Multiple Real-World Projects
-- Learn Web Development
-- Explore Artificial Intelligence & Machine Learning
-- Contribute to Open Source
-- Strengthen DSA and Problem-Solving Skills
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+- Build Multiple Real-World Project
 
 ---
 
