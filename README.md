@@ -60,8 +60,7 @@ Wanted to create and build a simple project for example a simple website with he
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- Email: your-email@example.com
+- GitHub: https://github.com/ayush27-cs
 
 ---
 
