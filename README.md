@@ -1,55 +1,30 @@
-# Hello Everyone 👋, I am Ayush Singh Thakur
 
-### 🎓 B.Tech Student | Python Enthusiast | Future Innovator
+# Hi, I’m Ayush Singh Thakur  
 
-I'm currently pursuing my B.Tech degree at SAIT College. I am passionate about technology, problem-solving, and building projects that make an impact. My primary focus is learning Python and exploring new technologies to create innovative solutions.
+### B.Tech Student | Python Learner  
 
----
+I’m pursuing my B.Tech at SAIT College. I enjoy coding, learning new technologies, and building small projects to improve my skills. Right now, I’m focusing on Python and also practicing C and C++ to strengthen my basics.  
 
-## 🚀 About Me
+## Skills  
+- Python (beginner)  
+- C, C++ (learning)  
+- Git & GitHub  
+- Problem-solving  
 
-- 🎓 Pursuing B.Tech at SAIT College
-- 🐍 Currently learning and improving my Python skills
-- 🔭 Working on personal projects to strengthen my development skills
-- 📖 Learning C and C++
-- 💡 Interested in building useful applications and solving real-world problems
-- 📚 Always eager to learn new technologies
-- ⚡ Goal: To create innovative products and contribute to open-source projects
+## Goals  
+- Improve Python and DSA  
+- Build real-world projects  
+- Contribute to open-source  
 
----
-
-## 🛠️ Skills & Technologies
-
-**Programming Languages** (basics)
-- Python
-- C
-- C++
-
-**Tools & Technologies**
-- Git & GitHub
-- VS Code
-- Problem Solving
+## Connect  
+- GitHub: [ayush27-cs](https://github.com/ayush27-cs)  
 
 ---
 
-## 📈 Current Learning Journey
-
-Learning C and C++, and writing code daily to build confidence. Also want to build a simple project — maybe a small website using Python — to apply what I've learned so far.
+⭐ Thanks for checking out my profile  
 
 ---
 
-## 🎯 2026 Goals
+This version looks **minimal, personal, and recruiter-friendly** — no extra decoration, just the essentials.  
 
-- Master Python Programming
-- Build multiple real-world projects
-- learn DSA ,C,C++ IN DEPTH
-
----
-
-## 📫 Connect With Me
-
-- GitHub: [ayush27-cs](https://github.com/ayush27-cs)
-
----
-
-⭐ Thanks for visiting my profile! Let's learn, build, and innovate together.
+Would you like me to make it even **one-paragraph short** (like a quick GitHub bio) so it feels more casual?
