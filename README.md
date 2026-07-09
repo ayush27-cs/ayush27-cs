@@ -1,6 +1,6 @@
-# Hello Everyone👋, I am Ayush Singh Thakur...
+# Hello Everyone 👋, I am Ayush Singh Thakur
 
-##🎓 B.Tech Student | Python Enthusiast | Future Innovator
+### 🎓 B.Tech Student | Python Enthusiast | Future Innovator
 
 I'm currently pursuing my B.Tech degree at SAIT College. I am passionate about technology, problem-solving, and building projects that make an impact. My primary focus is learning Python and exploring new technologies to create innovative solutions.
 
@@ -11,7 +11,7 @@ I'm currently pursuing my B.Tech degree at SAIT College. I am passionate about t
 - 🎓 Pursuing B.Tech at SAIT College
 - 🐍 Currently learning and improving my Python skills
 - 🔭 Working on personal projects to strengthen my development skills
-- Learning C and C++
+- 📖 Learning C and C++
 - 💡 Interested in building useful applications and solving real-world problems
 - 📚 Always eager to learn new technologies
 - ⚡ Goal: To create innovative products and contribute to open-source projects
@@ -20,12 +20,12 @@ I'm currently pursuing my B.Tech degree at SAIT College. I am passionate about t
 
 ## 🛠️ Skills & Technologies
 
-### Programming Languages ..knowing the basic 
+**Programming Languages** (basics)
 - Python
 - C
 - C++
 
-### Tools & Technologies
+**Tools & Technologies**
 - Git & GitHub
 - VS Code
 - Problem Solving
@@ -33,22 +33,22 @@ I'm currently pursuing my B.Tech degree at SAIT College. I am passionate about t
 ---
 
 ## 📈 Current Learning Journey
-learning c and c++ and making code to gain confidence...
-Wanted to create and build a simple project for example a simple website with help of Python...
-```
+
+Learning C and C++, and writing code daily to build confidence. Also want to build a simple project — maybe a small website using Python — to apply what I've learned so far.
 
 ---
 
 ## 🎯 2026 Goals
 
 - Master Python Programming
-- Build Multiple Real-World Project
+- Build multiple real-world projects
+- learn DSA ,C,C++ IN DEPTH
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/ayush27-cs
+- GitHub: [ayush27-cs](https://github.com/ayush27-cs)
 
 ---
 
