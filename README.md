@@ -10,7 +10,8 @@ I’m pursuing my B.Tech at SAIT College. I enjoy coding, learning new technolog
 - Problem-solving  
 
 ## Goals  
-- Improve Python and DSA  
+- Improve Python and DSA
+- leetcode,codeforces 
 - Build real-world projects  
 - Contribute to open-source  
 
