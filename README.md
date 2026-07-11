@@ -1,7 +1,7 @@
 
 # Hi, I’m Ayush Singh Thakur  
 ### B.Tech Student | Python Learner  
-I’m pursuing my B.Tech at SAIT College. I enjoy coding, learning new technologies, and building small projects to improve my skills. Right now, I’m focusing on Python and also practicing C and C++ to strengthen my basics.  
+I’m pursuing my B.Tech at SAIT College. I enjoy coding, learning new technologies, and building small projects to improve my skills. Right now, I’m focusing on Python and also practicing C and C++ to strengthen my basics....
 
 ## Skills  
 - Python (beginner)  
@@ -16,7 +16,8 @@ I’m pursuing my B.Tech at SAIT College. I enjoy coding, learning new technolog
 - Contribute to open-source  
 
 ## Connect  
-- GitHub: [ayush27-cs](https://github.com/ayush27-cs)  
+- GitHub: [ayush27-cs](https://github.com/ayush27-cs)
+- 
 
 ---
 
