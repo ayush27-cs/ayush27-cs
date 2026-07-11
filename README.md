@@ -21,10 +21,4 @@ I’m pursuing my B.Tech at SAIT College. I enjoy coding, learning new technolog
 
 ---
 
-⭐ Thanks for checking out my profile  
-
----
-
-This version looks **minimal, personal, and recruiter-friendly** — no extra decoration, just the essentials.  
-
-Would you like me to make it even **one-paragraph short** (like a quick GitHub bio) so it feels more casual?
+ Thanks for checking out my profile...
