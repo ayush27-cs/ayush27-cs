@@ -1,5 +1,6 @@
 
 # Hi, I’m Ayush Singh Thakur  
+Everything starts from scratch..
 Live-Learn-Leetcode-Laugh
 ### B.Tech Student | Python Learner  
 I’m pursuing my B.Tech at SAIT College. I enjoy coding, learning new technologies, and building small projects to improve my skills. Right now, I’m focusing on Python and also practicing C and C++ to strengthen my basics....
@@ -19,9 +20,5 @@ I’m pursuing my B.Tech at SAIT College. I enjoy coding, learning new technolog
 ## Connect  
 - GitHub: [ayush27-cs](https://github.com/ayush27-cs)
 - 
-
----
-
  Thanks for checking out my profile...
- Everything starts from scratch..
  
