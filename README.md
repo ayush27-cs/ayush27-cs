@@ -7,7 +7,8 @@ I’m pursuing my B.Tech at SAIT College. I enjoy coding, learning new technolog
 
 ## Skills  
 - Python (beginner)  
-- C, C++ (learning)  
+- C, C++ (learning)
+- started learning SQL
 - Git & GitHub  
 - Problem-solving  
 
