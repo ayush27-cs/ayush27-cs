@@ -20,6 +20,6 @@ I’m pursuing my B.Tech at SAIT College. I enjoy coding, learning new technolog
 
 ## Connect  
 - GitHub: [ayush27-cs](https://github.com/ayush27-cs)
-- 
+  
  Thanks for checking out my profile...
  
