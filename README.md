@@ -13,7 +13,7 @@ I’m pursuing my B.Tech at SAIT College. I enjoy coding, learning new technolog
 
 ## Goals  
 - Improve Python and DSA
-- leetcode,codeforces 
+- Leetcode and Codeforces 
 - Build real-world projects  
 - Contribute to open-source  
 
