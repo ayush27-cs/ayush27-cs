@@ -6,7 +6,7 @@ Live-Learn-Leetcode-Laugh
 I’m pursuing my B.Tech at SAIT College. I enjoy coding, learning new technologies, and building small projects to improve my skills. Right now, I’m focusing on Python and also practicing C and C++ to strengthen my basics....
 ## Skills  
 - Python (beginner)  
-- C, C++ (learning)
+- C and C++ (learning)
 - started learning SQL
 - Git & GitHub  
 - Problem-solving  
