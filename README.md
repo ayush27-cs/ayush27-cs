@@ -27,7 +27,7 @@ Currently learning **Python, C, C++, SQL**, and my first project — a **Ludo Ga
 - 🧩 Practice on LeetCode & Codeforces  
 - 🛠️ Build real-world projects
 
-- 
+   
 - 🎲 My First Project: Ludo Game
 A simple multiplayer Ludo game built in C++ as my first step into real-world coding.
 🎲 Dice roll simulation
