@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayush27-cs/ayush27-cs/main/ayush-photo.png" alt="Ayush Singh Thakur" width="200">
+  <img src="https://raw.githubusercontent.com/ayush27-cs/ayush27-cs/main/ayush%20photo.jpeg" alt="Ayush Singh Thakur" width="200" style="border-radius:50%;">
 </p>
 
 
