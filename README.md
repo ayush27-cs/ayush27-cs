@@ -12,10 +12,9 @@ I’m pursuing my B.Tech at SAIT College. I enjoy coding, learning new technolog
 - Problem-solving  
 
 ## Goals  
-- Improve Python and DSA
+- Improve Python , C++ and DSA
 - Leetcode and Codeforces 
-- Build real-world projects  
-- Contribute to open-source  
+- Build real-world projects   
 
 ## Connect  
 - GitHub: [ayush27-cs](https://github.com/ayush27-cs)
