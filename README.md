@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me  
 I’m a **B.Tech student at SAIT College**, passionate about coding and problem-solving.  
-Currently learning **Python, C, and C++**, and proud of my first project — a **Ludo Game** 🎲..To be honest i take help from ai to create the ludo and manipulation was mine soome debugging and errors are explained by AI..
+Currently learning **Python, C, and C++**, and my first project — a **Ludo Game** 🎲
 
 ---
 
@@ -27,24 +27,20 @@ Currently learning **Python, C, and C++**, and proud of my first project — a *
 ## 🎯 Goals  
 - 🚀 Master Python, C++ & DSA  
 - 🧩 Practice on LeetCode & Codeforces  
-- 🛠️ Build real-world projects  
+- 🛠️ Build real-world projects
+
+- 
+- 🎲 My First Project: Ludo Game
+A simple multiplayer Ludo game built in C++ as my first step into real-world coding.
+🎲 Dice roll simulation
+🧑‍🤝‍🧑 Multiplayer turns
+🏆 Win condition detection
+🛠️ Debugging and syntax fixes with AI assistance
+
+Note: to be honest I wrote the logic myself, and used AI only for syntax corrections and debugging guidance. 
 
 ---
 
-## 🎲 My First Project: Ludo Game  
-A simple multiplayer Ludo game built in C++ as my first step into real-world coding.  
-- 🎲 Dice roll simulation  
-- 🧑‍🤝‍🧑 Multiplayer turns  
-- 🏆 Win condition detection  
-
----
-
-## 📊 GitHub Stats  
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush27-cs&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush27-cs&layout=compact&theme=radical)  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ayush27-cs&theme=radical)](https://git.io/streak-stats)  
-
---
 
 ## 🔗 Connect  
 - GitHub: [ayush27-cs](https://github.com/ayush27-cs)  
