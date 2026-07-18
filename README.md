@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayush27-cs/ayush27-cs/main/assets/banner.png" alt="Beginner Coder Banner" width="100%">
-</p>
+<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/b5c90665-9957-426b-b940-abcf6eb5d67a" />
 
 # 👋 Hello, I’m Ayush Singh Thakur  
 > Everything starts from scratch...  
