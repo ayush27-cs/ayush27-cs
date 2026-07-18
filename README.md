@@ -1,5 +1,5 @@
 
-# Hello, I’m Ayush Singh Thakur  
+# Hello everyone, I’m Ayush Singh Thakur  
 Everything starts from scratch..
 Live-Learn-Leetcode-Laugh 
 ### B.Tech Student | Python Learner  
