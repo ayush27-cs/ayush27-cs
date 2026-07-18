@@ -1,4 +1,7 @@
-<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/35cd7a02-21ab-4510-afec-770b7bc77c4b" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayush27-cs/ayush27-cs/main/ayush-photo.png" alt="Ayush Singh Thakur" width="200">
+</p>
+
 
 
 
