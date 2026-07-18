@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayush27-cs/ayush27-cs/main/ayush-photo.png" alt="Ayush Singh Thakur" width="100%">
+</p>
 
 
 # 👋 Hello, I’m Ayush Singh Thakur  
