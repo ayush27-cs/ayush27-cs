@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/ayush27-cs/ayush27-cs/main/banner.png" alt="Beginner Coder Banner" width="100%">
 </p>
 
-
 # Hello everyone, I’m Ayush Singh Thakur  
 Everything starts from scratch..
 Live-Learn-Leetcode-Laugh 
