@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/ayush27-cs/ayush27-cs/main/Copilot_20260718_211532.png" alt="Beginner Coder Banner" width="100%">
 </p>
 
-
 # 👋 Hello, I’m Ayush Singh Thakur  
 > Everything starts from scratch...  
 > Live • Learn • LeetCode • Laugh  
