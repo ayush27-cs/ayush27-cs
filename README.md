@@ -35,7 +35,7 @@ A simple multiplayer Ludo game built in C++ as my first step into real-world cod
 🏆 Win condition detection
 🛠️ Debugging and syntax fixes with AI assistance
 
-Note: to be honest I wrote the logic myself, and used AI only for syntax corrections and debugging guidance. 
+Note: To be honest I wrote the logic myself, and used AI only for syntax corrections and debugging guidance...
 
 ---
 
