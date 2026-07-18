@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayush27-cs/ayush27-cs/main/ayush%20photo.jpeg" alt="Ayush Singh Thakur" width="200" style="border-radius:50%;">
-</p>
-
-# 👋 Hello, I’m Ayush Singh Thakur  
-Everything starts from scratch...  
-Live • Learn • LeetCode • Laugh
-
 
 # 👋 Hello, I’m Ayush Singh Thakur  
 > Everything starts from scratch...  
