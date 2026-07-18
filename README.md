@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me  
 I’m a **B.Tech student at SAIT College**, passionate about coding and problem-solving.  
-Currently learning **Python, C, and C++**, and proud of my first project — a **Ludo Game** 🎲.  
+Currently learning **Python, C, and C++**, and proud of my first project — a **Ludo Game** 🎲..To be honest i take help from ai to create the ludo and manipulation was mine soome debugging and errors are explained by AI..
 
 ---
 
@@ -44,12 +44,7 @@ A simple multiplayer Ludo game built in C++ as my first step into real-world cod
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush27-cs&layout=compact&theme=radical)  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ayush27-cs&theme=radical)](https://git.io/streak-stats)  
 
----
-
-## 🐍 Contribution Snake  
-![Snake animation](https://github.com/ayush27-cs/ayush27-cs/blob/output/github-contribution-grid-snake.svg)  
-
----
+--
 
 ## 🔗 Connect  
 - GitHub: [ayush27-cs](https://github.com/ayush27-cs)  
