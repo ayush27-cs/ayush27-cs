@@ -9,7 +9,7 @@ I’m pursuing my B.Tech at SAIT College. I enjoy coding, learning new technolog
 - C (beginner)
 - SQL and C++(learning)
 - Git & GitHub  
-- Problem-solving  
+- Problem-solving   
 
 ## Goals  
 - Improve Python , C++ and DSA
