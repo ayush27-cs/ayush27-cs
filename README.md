@@ -3,7 +3,8 @@
 </p>
 
 # 👋 Hello everyone, I’m Ayush Singh Thakur  
-> Everything starts from scratch...  
+> Everything starts from scratch...
+> Jump into bandwagon... 
 > Live • Learn • LeetCode • Laugh  
 ---
 ## 👨‍💻 About Me  
