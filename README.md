@@ -21,8 +21,6 @@ Currently learning **Python, C, C++, SQL**, and my first project — a **Ludo Ga
 - 🌐 Git & GitHub  
 - 🧩 Problem-solving  
 
----
-
 ## 🎯 Goals  
 - 🚀 Master Python, C++ & DSA  
 - 🧩 Practice on LeetCode & Codeforces  
