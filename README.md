@@ -33,6 +33,7 @@ Currently learning **Python, C, C++, SQL**, and my first project — a **Ludo Ga
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayush27-cs/ayush27-cs/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/ayush27-cs/ayush27-cs/output/github-contribution-grid-snake.svg">
   </picture>
+  **Github Analysis--
   <div align="center">
   <img src="https://img.shields.io/github/followers/ayush27-cs?label=Followers&style=for-the-badge&color=00E5FF&labelColor=0A0E17" />
   <img src="https://img.shields.io/github/stars/ayush27-cs?label=Total%20Stars&style=for-the-badge&color=00E5FF&labelColor=0A0E17" />
@@ -54,7 +55,7 @@ A simple multiplayer Ludo game built in C++ as my first step into real-world cod
 🛠️ Debugging and syntax fixes with AI assistance
 
 Note: To be honest I wrote the logic myself, and used AI only for syntax corrections and debugging guidance...
-## 📊 GitHub Analytics
+
 
 
 
