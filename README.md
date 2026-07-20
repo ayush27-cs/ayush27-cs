@@ -23,7 +23,16 @@ Currently learning **Python, C, C++, SQL**, and my first project — a **Ludo Ga
 - 🚀 Master Python, C++ & DSA  
 - 🧩 Practice on LeetCode & Codeforces  
 - 🛠️ Build real-world projects
+## 🐍 Contribution Graph Matrix
 
+<div align="center">
+
+  <!-- Snake Eating Contributions Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayush27-cs/ayush27-cs/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayush27-cs/ayush27-cs/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/ayush27-cs/ayush27-cs/output/github-contribution-grid-snake.svg">
+  </picture>
    
 - 🎲 My First Project: Ludo Game
 A simple multiplayer Ludo game built in C++ as my first step into real-world coding.
