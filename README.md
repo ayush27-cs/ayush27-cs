@@ -13,7 +13,7 @@ Currently learning **Python, C, C++, SQL**, and my first project — a **Ludo Ga
 ## 🛠️ Skills  
 - 🐍 Python (beginner)  
 - 🔧 C (beginner)  
-- ⚡ C++ (learning)  
+- ⚡ C++ (learning) 
 - 🗄️ SQL (learning)  
 - 🌐 Git & GitHub  
 - 🧩 Problem-solving
