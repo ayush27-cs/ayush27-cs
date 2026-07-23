@@ -52,8 +52,6 @@ A simple multiplayer Ludo game built in C++ as my first step into real-world cod
 Note: To be honest I wrote the logic myself, and used AI only for syntax corrections and debugging guidance...
 
 
-
-
 ## 🔗 Connect  
 - GitHub: [ayush27-cs](https://github.com/ayush27-cs)  
 
