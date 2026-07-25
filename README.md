@@ -11,7 +11,7 @@ I’m a **B.Tech student at SAIT College**, passionate about coding and problem-
 Currently learning **Python, C, C++, SQL**, and my first project — a **Ludo Game** 🎲 
 
 ## 🛠️ Skills  
-- 🐍 Python (beginner)  
+- 🐍 Python (beginner) 
 - 🔧 C (beginner)  
 - ⚡ C++ (learning) 
 - 🗄️ SQL (learning)  
