@@ -22,6 +22,13 @@ Currently learning **Python, C, C++, SQL**, and my first project — a **Ludo Ga
 - 🚀 Master Python, C++ & DSA  
 - 🧩 Practice on LeetCode & Codeforces  
 - 🛠️ Build real-world projects
+
+  ## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-singh-thakur/)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/thakur._.ayush27)
+[![Codeforces](https://img.shields.io/badge/Codeforces-orange?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/ayush27_cs)
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode)](https://leetcode.com/ayush27_cs)
+
   
 ## 🐍 Contribution Graph Matrix
 <div align="center">
