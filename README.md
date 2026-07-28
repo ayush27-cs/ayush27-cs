@@ -23,11 +23,14 @@ Currently learning **Python, C, C++, SQL**, and my first project — a **Ludo Ga
 - 🧩 Practice on LeetCode & Codeforces  
 - 🛠️ Build real-world projects
 <div align="center">
-  ## 🌐 Connect with me
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/thakur._.ayush27)
-[![Codeforces](https://img.shields.io/badge/Codeforces-orange?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/ayush27_cs)
+
+## 🌐 Connect with me
+
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge)](https://instagram.com/thakur._.ayush27)
+[![Codeforces](https://img.shields.io/badge/Codeforces-orange?style=for-the-badge)](https://codeforces.com/profile/ayush27_cs)
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode)](https://leetcode.com/ayush27_cs)
 
+</div>
   
 ## 🐍 Contribution Graph Matrix
 <div align="center">
