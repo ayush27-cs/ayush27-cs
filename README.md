@@ -61,16 +61,7 @@ A simple multiplayer Ludo game built in C++ as my first step into real-world cod
 🛠️ Debugging and syntax fixes with AI assistance
 Note: To be honest I wrote the logic myself, and used AI only for syntax corrections and debugging guidance...
 
-
-
-
 ## 🔗 Connect  
 - GitHub: [ayush27-cs](https://github.com/ayush27-cs)
-
-  <p align="center">
-  <img src="https://readme-streak-stats.herokuapp.com/?user=ayush27-cs&theme=dark" alt="GitHub Streak" />
-</p>
-
-  
 ---
 ⭐ *Thanks for checking out my profile — let’s learn, build, and laugh along the way!*
