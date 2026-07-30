@@ -52,7 +52,7 @@ Currently learning **Python, C, C++, SQL**, and my first project — a **Ludo Ga
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush27-cs&theme=tokyonight&hide_border=true" width="80%" />
 </div>
 --- 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush27-cs&layout=compact&theme=dark" alt="Top Langs" />
+
 - 🎲 My First Project: Ludo Game
 A simple multiplayer Ludo game built in C++ as my first step into real-world coding.
 🎲 Dice roll simulation
@@ -61,6 +61,13 @@ A simple multiplayer Ludo game built in C++ as my first step into real-world cod
 🛠️ Debugging and syntax fixes with AI assistance
 Note: To be honest I wrote the logic myself, and used AI only for syntax corrections and debugging guidance...
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush27-cs&layout=compact&theme=dark" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush27-cs&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
 
 ## 🔗 Connect  
 - GitHub: [ayush27-cs](https://github.com/ayush27-cs)  
