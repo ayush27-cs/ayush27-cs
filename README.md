@@ -52,7 +52,7 @@ Currently learning **Python, C, C++, SQL**, and my first project — a **Ludo Ga
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush27-cs&theme=tokyonight&hide_border=true" width="80%" />
 </div>
 --- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush27-cs&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush27-cs&layout=compact&theme=dark" alt="Top Langs" />
 - 🎲 My First Project: Ludo Game
 A simple multiplayer Ludo game built in C++ as my first step into real-world coding.
 🎲 Dice roll simulation
