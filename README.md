@@ -68,12 +68,9 @@ Note: To be honest I wrote the logic myself, and used AI only for syntax correct
 - GitHub: [ayush27-cs](https://github.com/ayush27-cs)
 
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush27-cs&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://readme-streak-stats.herokuapp.com/?user=ayush27-cs&theme=dark" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush27-cs&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
+  
 ---
 ⭐ *Thanks for checking out my profile — let’s learn, build, and laugh along the way!*
