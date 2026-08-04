@@ -51,7 +51,7 @@ Currently learning **Python, C, C++, SQL**, and my first project — a **Ludo Ga
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush27-cs&theme=tokyonight&hide_border=true" width="80%" />
 </div>
---- 
+---    
 
 - 🎲 My First Project: Ludo Game
 A simple multiplayer Ludo game built in C++ as my first step into real-world coding.
