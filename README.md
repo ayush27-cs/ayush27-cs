@@ -46,7 +46,7 @@ Currently learning **Python, C, C++, SQL**, and my first project — a **Ludo Ga
   <img src="https://img.shields.io/github/stars/ayush27-cs?label=Total%20Stars&style=for-the-badge&color=00E5FF&labelColor=0A0E17" />
     
 </div>
-<br/>
+<br/> 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush27-cs&theme=tokyonight&hide_border=true" width="80%" /> 
 </div>  
