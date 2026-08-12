@@ -3,7 +3,7 @@
 </p>   
 
 # 👋 Hello everyone, I’m Ayush Singh Thakur   
-> Everything starts from scratch...    
+> Everything starts from scratch...      
 > Jump into bandwagon...  
 > Live • Learn • LeetCode • Laugh     
 ## 👨‍💻 About Me    
@@ -33,7 +33,7 @@ Currently learning **Python, C, C++, SQL**, and my first project — a **Ludo Ga
   
 ## 🐍 Contribution Graph Matrix 
 <div align="center">
-  <!-- Snake Eating Contributions Animation --> 
+  <!-- Snake Eating Contributions Animation -->    
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayush27-cs/ayush27-cs/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayush27-cs/ayush27-cs/output/github-contribution-grid-snake.svg">
