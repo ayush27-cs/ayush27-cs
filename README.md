@@ -52,7 +52,7 @@ Currently learning **Python, C, C++, SQL**, and my first project — a **Ludo Ga
 </div>  
 ---    
 
-- 🎲 My First Project: Ludo Game
+- 🎲 My First Project: Ludo Game  
 A simple multiplayer Ludo game built in C++ as my first step into real-world coding.
 🎲 Dice roll simulation
 🧑‍🤝‍🧑 Multiplayer turns
