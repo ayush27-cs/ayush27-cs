@@ -7,7 +7,7 @@
 > Jump into bandwagon...  
 > Live • Learn • LeetCode • Laugh     
 ## 👨‍💻 About Me    
-I’m a **B.Tech student at SAIT College**, passionate about coding and problem-solving.  
+I’m a **B.Tech student at SAIT College**, passionate about coding and problem-solving.   
 Currently learning **Python, C, C++, SQL**, and my first project — a **Ludo Game** 🎲    
 
 ## 🛠️ Skills  
