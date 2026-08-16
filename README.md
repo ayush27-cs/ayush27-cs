@@ -38,7 +38,7 @@ Currently learning **Python, C, C++, SQL**, and my first project — a **Ludo Ga
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayush27-cs/ayush27-cs/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayush27-cs/ayush27-cs/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/ayush27-cs/ayush27-cs/output/github-contribution-grid-snake.svg">
-  </picture> 
+  </picture>  
   
   **Github Analysis--
   <div align="center">
