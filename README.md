@@ -55,7 +55,7 @@ Currently learning **Python, C, C++, SQL**, and my first project — a **Ludo Ga
 - 🎲 My First Project: Ludo Game  
 A simple multiplayer Ludo game built in C++ as my first step into real-world coding.
 🎲 Dice roll simulation
-🧑‍🤝‍🧑 Multiplayer turns
+🧑‍🤝‍🧑 Multiplayer turns 
 🏆 Win condition detection  
 🛠️ Debugging and syntax fixes with AI assistance 
 Note: To be honest I wrote the logic myself, and used AI only for syntax corrections and debugging guidance...
