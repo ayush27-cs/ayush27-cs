@@ -19,7 +19,7 @@ Currently learning **Python, C, C++, SQL**, and my first project — a **Ludo Ga
 - 🧩 Problem-solving
     
 ## 🎯 Goals  
-- 🚀 Master Python, C++ & DSA  
+- 🚀 Master Python, C++ & DSA   
 - 🧩 Practice on LeetCode & Codeforces  
 - 🛠️ Build real-world projects 
 <div align="center">  
