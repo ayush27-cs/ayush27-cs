@@ -63,5 +63,5 @@ Note: To be honest I wrote the logic myself, and used AI only for syntax correct
 
 
 ## 🔗 Connect   
-- GitHub: [ayush27-cs](https://github.com/ayush27-cs)  
+- GitHub: [ayush27-cs](https://github.com/ayush27-cs)   
 ⭐ *Thanks for checking out my profile — let’s learn, build, and laugh along the way!*
