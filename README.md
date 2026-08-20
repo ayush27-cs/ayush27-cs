@@ -43,7 +43,7 @@ Currently learning **Python, C, C++, SQL**, and my first project — a **Ludo Ga
   **Github Analysis--
   <div align="center">
   <img src="https://img.shields.io/github/followers/ayush27-cs?label=Followers&style=for-the-badge&color=00E5FF&labelColor=0A0E17" />   
-  <img src="https://img.shields.io/github/stars/ayush27-cs?label=Total%20Stars&style=for-the-badge&color=00E5FF&labelColor=0A0E17" />   
+  <img src="https://img.shields.io/github/stars/ayush27-cs?label=Total%20Stars&style=for-the-badge&color=00E5FF&labelColor=0A0E17" />    
     
 </div>
 <br/> 
