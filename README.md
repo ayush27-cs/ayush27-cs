@@ -32,7 +32,7 @@ Currently learning **Python, C, C++, SQL**, and my first project — a **Ludo Ga
 </div>
   
 ## 🐍 Contribution Graph Matrix 
-<div align="center">
+<div align="center"> 
   <!-- Snake Eating Contributions Animation -->     
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayush27-cs/ayush27-cs/output/github-contribution-grid-snake-dark.svg">
