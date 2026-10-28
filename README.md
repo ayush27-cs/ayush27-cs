@@ -6,7 +6,7 @@ I'm currently learning new technical things required in the technical field<br>i
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thakur._.ayush27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-singh-thakur-a3ba74420) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Ayush Singh Thakur) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ayush Singh thakur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhthakurayush176@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thakur._.ayush27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-singh-thakur-a3ba74420)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -41,20 +41,3 @@ I'm currently learning new technical things required in the technical field<br>i
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayush27-cs/ayush27-cs/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/ayush27-cs/ayush27-cs/output/github-contribution-grid-snake.svg">
   </picture>  
-  
-  **Github Analysis--
-  <div align="center">
-  <img src="https://img.shields.io/github/followers/ayush27-cs?label=Followers&style=for-the-badge&color=00E5FF&labelColor=0A0E17" />    
-  <img src="https://img.shields.io/github/stars/ayush27-cs?label=Total%20Stars&style=for-the-badge&color=00E5FF&labelColor=0A0E17" />    
-    
-</div>
-<br/>  
-<div align="center">   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush27-cs&theme=tokyonight&hide_border=true" width="80%" />   
-</div>           
----     
-  
-## 🔗 Connect   
-- GitHub: [ayush27-cs](https://github.com/ayush27-cs)       
-⭐ *Thanks for checking out my profile — let’s learn, build, and laugh along the way!*
- 
