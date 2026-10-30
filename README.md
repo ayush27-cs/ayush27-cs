@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ayush27-cs/ayush27-cs/main/Copilot_20260718_211532.png" alt="Beginner Coder Banner" width="100%"> 
-</p>       
+</p>        
 # 💫 About Me:
 I'm currently learning new technical things required in the technical field<br>i practice easy problem on leetcode of majorly maths pattern <br>i created a ludo game in which the logic was mine but the syntax of the code and some implemetation help was taken from Gemini for the helping purpose<br>and a sparify  etl project where a created a table and connect a python with postgres and store the data 70 json and 30 log files in sparifydb<br>i am always passionate to learn something new <br> 
 
